@@ -111,10 +111,6 @@ dayjs().format('Q Do k kk X x') // mais formatos disponíveis pelo plugin
 
 Ajude este projeto se tornando um patrocinador. O seu logo será exibido aqui, com um link para o seu site. [[Tornar-se um Patrocinador](https://opencollective.com/dayjs#sponsor)].
 
-<a href="https://opencollective.com/dayjs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/dayjs/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/dayjs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/dayjs/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/dayjs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/dayjs/sponsor/2/avatar.svg"></a>
-
 ## Contribuidores
 
 Este projeto existe graças a todas as pessoas que contribuem.
