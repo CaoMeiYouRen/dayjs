@@ -129,6 +129,10 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
   <img alt="Instagram Story Viewer" width="70" src="https://avatars.githubusercontent.com/u/240702364?v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.sayfone.com/call-rates " target="_blank">
+  <img alt="Sayfone Cheap international calls" width="70" src="https://github.com/user-attachments/assets/68f91139-b190-421b-bcd7-43a8e3d84fe7">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://automatio.ai" target="_blank" alt="Automatio AI">
   <img width="70" src="https://avatars.githubusercontent.com/u/1984909?v=4" />
 </a>
