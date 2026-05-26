@@ -99,6 +99,9 @@ dayjs().format('Q Do k kk X x') // more available formats
 
 📚[Plugin List](https://day.js.org/docs/en/plugin/plugin)
 
+## Downloads
+![Day.js Chart](./docs/assets/download.png)
+
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
@@ -175,9 +178,6 @@ Please give us a 💖 star 💖 to support us. Thank you.
 And thank you to all our backers! 🙏
 
 <a href="https://opencollective.com/dayjs#backers" target="_blank"><img src="https://opencollective.com/dayjs/contributors.svg?width=890" /></a>
-
-## Downloads
-![Day.js Chart](./docs/assets/download.png)
 
 ## License
 
